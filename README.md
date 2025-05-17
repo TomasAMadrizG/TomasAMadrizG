@@ -47,4 +47,3 @@ Soy Tomás Madriz, Ingeniero en Computación con más de 15 años de experiencia
 
 ---
 
-📅 Última edición: {{FECHA_ACTUAL}}
