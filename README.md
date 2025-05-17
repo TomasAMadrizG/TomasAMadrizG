@@ -41,8 +41,8 @@ Soy Tomás Madriz, Ingeniero en Computación con más de 15 años de experiencia
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tommad1&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tommad1&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TomasAMadrizG&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=TomasAMadrizG&theme=tokyonight" />
 </p>
 
 ---
